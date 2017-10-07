@@ -1,5 +1,5 @@
 * Research Talks
-** [[https://github.com/thari/ResearchTalks/scam2012.pptx][Source Code Analysis and Manipulation - 2012]]
+** [[https://github.com/thari/ResearchTalks/blob/master/scam2012.pptx][Source Code Analysis and Manipulation - 2012]]
 *** Bakar Alir - a tool for static taint analysis and reachability of Ada-spark programs
 *** Auto-generate derives specification of spark program
 *** Query reachability across packages through abstraction and refinement through interfaces
