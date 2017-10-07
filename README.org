@@ -1,0 +1,9 @@
+* Research Talks
+** [[https://github.com/thari/ResearchTalks/scam2012.pptx][Source Code Analysis and Manipulation - 2012]]
+*** Bakar Alir - a tool for static taint analysis and reachability of Ada-spark programs
+*** Auto-generate derives specification of spark program
+*** Query reachability across packages through abstraction and refinement through interfaces
+** [[https://github.com/thari/ResearchTalks/blob/master/Risk-analysis-hari-2017.pptx][Midwest Verification Day 2017]]
+*** Using AADL + EMV2 to model platform based, interoperable medical devices
+*** Awas - for incrementally design and analyze models, with query language
+*** Report generation to ISO14971 and ANSI AAMI IEC 80001 medical device standards 
